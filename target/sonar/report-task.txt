@@ -2,5 +2,5 @@ projectKey=test
 serverUrl=https://9000-black-cat-8rwt6xuv.ws-eu16.gitpod.io
 serverVersion=8.9.2.46101
 dashboardUrl=https://9000-black-cat-8rwt6xuv.ws-eu16.gitpod.io/dashboard?id=test
-ceTaskId=AXvrrLcg5naExsk8BXmY
-ceTaskUrl=https://9000-black-cat-8rwt6xuv.ws-eu16.gitpod.io/api/ce/task?id=AXvrrLcg5naExsk8BXmY
+ceTaskId=AXvrvZcogGE02ssNxn0Y
+ceTaskUrl=https://9000-black-cat-8rwt6xuv.ws-eu16.gitpod.io/api/ce/task?id=AXvrvZcogGE02ssNxn0Y
